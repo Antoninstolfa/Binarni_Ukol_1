@@ -1,0 +1,11 @@
+D:\Tonda škola\PRG\Binarni_Ukol_1\Binarni_Ukol_1\bin\Debug\Binarni_Ukol_1.exe.config
+D:\Tonda škola\PRG\Binarni_Ukol_1\Binarni_Ukol_1\bin\Debug\Binarni_Ukol_1.exe
+D:\Tonda škola\PRG\Binarni_Ukol_1\Binarni_Ukol_1\bin\Debug\Binarni_Ukol_1.pdb
+D:\Tonda škola\PRG\Binarni_Ukol_1\Binarni_Ukol_1\obj\Debug\Binarni_Ukol_1.csproj.AssemblyReference.cache
+D:\Tonda škola\PRG\Binarni_Ukol_1\Binarni_Ukol_1\obj\Debug\Binarni_Ukol_1.csproj.SuggestedBindingRedirects.cache
+D:\Tonda škola\PRG\Binarni_Ukol_1\Binarni_Ukol_1\obj\Debug\Binarni_Ukol_1.Properties.Resources.resources
+D:\Tonda škola\PRG\Binarni_Ukol_1\Binarni_Ukol_1\obj\Debug\Binarni_Ukol_1.csproj.GenerateResource.cache
+D:\Tonda škola\PRG\Binarni_Ukol_1\Binarni_Ukol_1\obj\Debug\Binarni_Ukol_1.csproj.CoreCompileInputs.cache
+D:\Tonda škola\PRG\Binarni_Ukol_1\Binarni_Ukol_1\obj\Debug\Binarni_Ukol_1.exe
+D:\Tonda škola\PRG\Binarni_Ukol_1\Binarni_Ukol_1\obj\Debug\Binarni_Ukol_1.pdb
+D:\Tonda škola\PRG\Binarni_Ukol_1\Binarni_Ukol_1\obj\Debug\Binarni_Ukol_1.Form1.resources
